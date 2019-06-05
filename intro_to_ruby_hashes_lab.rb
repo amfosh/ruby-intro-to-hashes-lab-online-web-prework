@@ -34,7 +34,8 @@ def monopoly_with_third_tier
         :three_pieces=>100,
         :four_pieces=>200
       }
-      :names=>
+    }
+    :names=>
       {
         :reading_railroad=>{},
         :pennsylvania_railroad=>{},
