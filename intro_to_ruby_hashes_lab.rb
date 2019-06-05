@@ -4,7 +4,7 @@ end
 
 def actor
   actor= {
-    :actor=
+    :actor=>
   }
 end
 
